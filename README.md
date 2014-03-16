@@ -1,4 +1,4 @@
 BasicAlgorithms
 ===============
 
-some basic algorithms that are often seen
+some basic algorithms that are often used
