@@ -67,7 +67,7 @@
       <file leaf-file-name="MergeSort.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sorting/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="23" selection-start="798" selection-end="798" vertical-scroll-proportion="0.9679715" vertical-offset="0" max-vertical-offset="986">
+            <state line="32" column="24" selection-start="799" selection-end="799" vertical-scroll-proportion="0.9679715" vertical-offset="0" max-vertical-offset="986">
               <folding />
             </state>
           </provider>
@@ -533,7 +533,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -702,7 +702,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sorting/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="23" selection-start="798" selection-end="798" vertical-scroll-proportion="0.9679715" vertical-offset="0" max-vertical-offset="986">
+        <state line="32" column="24" selection-start="799" selection-end="799" vertical-scroll-proportion="0.9679715" vertical-offset="0" max-vertical-offset="986">
           <folding />
         </state>
       </provider>
