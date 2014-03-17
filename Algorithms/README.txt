@@ -6,3 +6,8 @@ The Algorithms is a list of algorithms that are "Basic" algorithms to Payson.
 	The other way is considered as Preorder
 2. BinaryHeap.java 
 	support heap sort.
+
+3. QuickSort.java
+	quick sort
+4. MergeSort.java
+	merge sort
