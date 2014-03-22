@@ -37,5 +37,9 @@ public class QuickSort {
         int temp = A[i];
         A[i] = A[j];
         A[j] = temp;
+        // swap can be implemented as
+        // A[i] = A[i] ^ A[j];
+        // A[j] =  A[j] ^ A[i];
+        // A[i] = A[i] ^ A[j];
     }
 }

@@ -6,13 +6,14 @@ package sorting;
 public class MergeSort {
     private int[] numbers;
     private int[] helpers;
+
     public void mergeSort(int[] A) {
         this.numbers = A;
         int length = A.length;
         this.helpers = new int[length];
         mergeSort(0, length - 1);
     }
-    
+
     private void mergeSort(int head, int tail) {
         if (head < tail) {
             int mid = head + (tail - head)/2;

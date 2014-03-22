@@ -64,19 +64,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MergeSort.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MergeSort.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sorting/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="24" selection-start="799" selection-end="799" vertical-scroll-proportion="0.9679715" vertical-offset="0" max-vertical-offset="986">
+            <state line="8" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0" vertical-offset="59" max-vertical-offset="1003">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeSortTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MergeSortTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sortingTest/MergeSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="5" selection-start="1120" selection-end="1120" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="1054">
+            <state line="21" column="41" selection-start="539" selection-end="539" vertical-scroll-proportion="0.16725978" vertical-offset="178" max-vertical-offset="1054">
               <folding />
             </state>
           </provider>
@@ -85,10 +85,17 @@
       <file leaf-file-name="QuickSortTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sortingTest/QuickSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="5" selection-start="1107" selection-end="1731" vertical-scroll-proportion="0.0" vertical-offset="611" max-vertical-offset="1173">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="23" column="9" selection-start="557" selection-end="557" vertical-scroll-proportion="0.0" vertical-offset="191" max-vertical-offset="1088">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sorting/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="9" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="867">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -110,9 +117,9 @@
         <option value="$PROJECT_DIR$/src/binaryTrees/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/binaryHeapsTest/BinaryHeapTest.java" />
         <option value="$PROJECT_DIR$/src/binaryHeaps/BinaryHeap.java" />
-        <option value="$PROJECT_DIR$/src/sorting/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/sortingTest/QuickSortTest.java" />
         <option value="$PROJECT_DIR$/src/sortingTest/MergeSortTest.java" />
+        <option value="$PROJECT_DIR$/src/sorting/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/sorting/MergeSort.java" />
       </list>
     </option>
@@ -149,7 +156,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -201,26 +207,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="binaryHeapsTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -533,7 +522,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -552,8 +541,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17220543" sideWeight="0.4047619" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17220543" sideWeight="0.5952381" order="4" side_tool="true" content_ui="tabs" x="74" y="189" width="683" height="201" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3202417" sideWeight="0.5697279" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3202417" sideWeight="0.4302721" order="4" side_tool="true" content_ui="tabs" x="74" y="189" width="683" height="201" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -607,21 +596,63 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sorting/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="26" selection-start="1119" selection-end="1119" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="986">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortingTest/MergeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="5" selection-start="1120" selection-end="1120" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortingTest/QuickSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="9" selection-start="557" selection-end="557" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="9" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="5" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.0" vertical-offset="424" max-vertical-offset="986">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortingTest/MergeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="5" selection-start="1120" selection-end="1120" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortingTest/QuickSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="5" selection-start="1107" selection-end="1731" vertical-scroll-proportion="0.0" vertical-offset="611" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryTrees/Serialization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="5" selection-start="3256" selection-end="3256" vertical-scroll-proportion="0.0" vertical-offset="409" max-vertical-offset="2006">
-          <folding>
-            <element signature="e#715#725#0" expanded="false" />
-            <element signature="e#2819#2829#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="110" column="5" selection-start="3256" selection-end="3256" vertical-scroll-proportion="0.0" vertical-offset="409" max-vertical-offset="2006" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryTrees/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
-          <folding />
-        </state>
+        <state line="13" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms.iml">
@@ -646,63 +677,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryHeaps/BinaryHeap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="28" selection-start="254" selection-end="254" vertical-scroll-proportion="0.39323843" vertical-offset="0" max-vertical-offset="1275">
-          <folding />
-        </state>
+        <state line="13" column="28" selection-start="254" selection-end="254" vertical-scroll-proportion="0.39323843" vertical-offset="0" max-vertical-offset="1275" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryTrees/Serialization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="33" selection-start="3005" selection-end="3005" vertical-scroll-proportion="1.9964412" vertical-offset="459" max-vertical-offset="2669">
-          <folding>
-            <element signature="e#715#725#0" expanded="false" />
-            <element signature="e#2819#2829#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="93" column="33" selection-start="3005" selection-end="3005" vertical-scroll-proportion="1.9964412" vertical-offset="459" max-vertical-offset="2669" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryTrees/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="23" selection-start="112" selection-end="112" vertical-scroll-proportion="0.18149467" vertical-offset="0" max-vertical-offset="562">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="24" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
-          <folding />
-        </state>
+        <state line="6" column="23" selection-start="112" selection-end="112" vertical-scroll-proportion="0.18149467" vertical-offset="0" max-vertical-offset="562" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryHeapsTest/BinaryHeapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="9" selection-start="1167" selection-end="1725" vertical-scroll-proportion="0.0" vertical-offset="611" max-vertical-offset="1173">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="60" column="9" selection-start="1167" selection-end="1725" vertical-scroll-proportion="0.0" vertical-offset="611" max-vertical-offset="1173" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="9" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sortingTest/QuickSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="5" selection-start="1107" selection-end="1731" vertical-scroll-proportion="0.0" vertical-offset="611" max-vertical-offset="1173">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortingTest/MergeSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="5" selection-start="1120" selection-end="1120" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="1054">
+        <state line="23" column="9" selection-start="557" selection-end="557" vertical-scroll-proportion="0.0" vertical-offset="191" max-vertical-offset="1088">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sorting/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="24" selection-start="799" selection-end="799" vertical-scroll-proportion="0.9679715" vertical-offset="0" max-vertical-offset="986">
+        <state line="8" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0" vertical-offset="59" max-vertical-offset="1003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortingTest/MergeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="41" selection-start="539" selection-end="539" vertical-scroll-proportion="0.16725978" vertical-offset="178" max-vertical-offset="1054">
           <folding />
         </state>
       </provider>
